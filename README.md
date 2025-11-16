@@ -151,8 +151,6 @@ You will first need to configure your Twilio Voice Phone Number to use the TwiML
 
 ![screenshot of phone number configuration](./screenshots/ngrok.png)
 
-![screenshot of phone number configuration](./screenshots/ngrok.png)
-
 
 if you need inbound， you need config this
 
