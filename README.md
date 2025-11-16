@@ -143,7 +143,22 @@ You will first need to configure your Twilio Voice Phone Number to use the TwiML
 6.  Under 'TWIML APP', choose the TwiML App you created earlier.
 7.  Click the 'Save' button at the bottom of the browser window.
 
-![screenshot of phone number configuration](./screenshots/ConfigurePhoneNumberWithTwiMLApp.png)
+![screenshot of phone number configuration](./screenshots/createNewTwiml.png)
+
+
+![screenshot of phone number configuration](./screenshots/NewTwimlConfig.png)
+
+
+![screenshot of phone number configuration](./screenshots/ngrok.png)
+
+![screenshot of phone number configuration](./screenshots/ngrok.png)
+
+
+if you need inbound， you need config this
+
+![screenshot of phone number configuration](./screenshots/inbound.png)
+
+
 
 You can now call your Twilio Voice Phone Number from your cell or landline phone.
 
